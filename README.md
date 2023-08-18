@@ -1,3 +1,3 @@
 # NoteBook
 
-- [Ubuntu](Ubuntu.md)
+- [Ubuntu](ubuntu/Ubuntu.md)

@@ -1,8 +1,8 @@
-# Ubuntu Software Installation
+# Ubuntu Software
 
-## Ubuntu 20.04
+## Miniconda
 
-### Miniconda
+### Installation
 
 - Get Installation Package
 
