@@ -1,7 +1,4 @@
 # Python
-
-[return](../README.md)
-
 ## threading.Thread
 
 - When you want to use `Thread` class to do some thread-relating work, you can initialze `Thread` class by customize arguments and use `Thread.start()` to let the job start running, and make sure you should override `Thread.run()` instead of directly invoke
