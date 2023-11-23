@@ -1,4 +1,8 @@
-# NoteBook
+# OS
+## Ubuntu
+- [commands](commands.md)
+- [software](software.md)
 
-- [Ubuntu](ubuntu/Ubuntu.md)
-- [Python](python/Python.md)
+# Program
+## Python
+- [concurrent](python/Python.md)
