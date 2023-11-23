@@ -1,6 +1,4 @@
 # Ubuntu Commands
-[return](./Ubuntu.md)
-
 ## adduser
 
 ### Create a sudo user
