@@ -1,7 +1,7 @@
 # OS
 ## Ubuntu
-- [commands](commands.md)
-- [software](software.md)
+- [commands](ubuntu/commands.md)
+- [software](ubuntu/software.md)
 
 # Program
 ## Python

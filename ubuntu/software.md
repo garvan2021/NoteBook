@@ -1,7 +1,4 @@
 # Ubuntu Software
-
-[return](./Ubuntu.md)
-
 ## Miniconda
 
 ### Installation
