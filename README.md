@@ -7,6 +7,7 @@
 ## Python
 - [concurrent](python/concurrent.md)
 - [hotfix](python/hotfix.md)
+- [web](python/web.md)
 
 ## Question & Think
 
