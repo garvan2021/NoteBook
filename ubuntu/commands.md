@@ -1,7 +1,16 @@
 # Ubuntu Commands
-## adduser
 
-### Create a sudo user
+## checkout tpc server state
+- using `netstat`
+```shell
+netstat -an
+```
+- using 'lsof'
+```shell
+lsof -i -n
+```
+
+## Create a sudo user
 
 - Crerate a user to system
 here replace `kelvin` as your favourite
