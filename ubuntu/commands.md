@@ -13,13 +13,13 @@ lsof -i -n
 ## Create a sudo user
 
 - Crerate a user to system
-here replace "kelvin" as your favourite
+here replace "kelvin" to your favourite
 ```shell
 sudo adduser kelvin
 ```
 
 - Add user to sudo group
-here replace "kelvin" as your favourite
+here replace "kelvin" to your favourite
 ```shell
 sudo usermod -aG sudo kelvin
 ```
