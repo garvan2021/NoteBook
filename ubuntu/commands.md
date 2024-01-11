@@ -1,6 +1,11 @@
 # Ubuntu Commands
 
-## checkout tpc server state
+### look up running process
+
+- `top` (using `shift` + `v` to enable tree view)
+- `pstree`
+
+### checkout tpc server state
 - using `netstat`
 ```shell
 netstat -an
@@ -10,7 +15,7 @@ netstat -an
 lsof -i -n
 ```
 
-## Create a sudo user
+### create a sudo user
 
 - Crerate a user to system
 here replace "kelvin" to your favourite
