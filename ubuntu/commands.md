@@ -5,7 +5,7 @@
 ```shell
 netstat -an
 ```
-- using 'lsof'
+- using `lsof`
 ```shell
 lsof -i -n
 ```
