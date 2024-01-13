@@ -1,17 +1,9 @@
 # OS
-## Ubuntu
-- [commands](ubuntu/commands.md)
-- [software](ubuntu/software.md)
+- [Ubuntu](notebooks/ubuntu.md)
 
 # Program
-## Python
-- [concurrent](python/concurrent.md)
-- [hotfix](python/hotfix.md)
-- [web](python/web.md)
+- [Python](notebooks/python.md)
+- [Git](notebooks/git.md)
 
-## Typescript
-
-## Question & Think
-
-- [Question](QT/Question.md)
-- [Think](QT/Think.md)
+# Others
+- [Questions](others/question.md)
