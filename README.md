@@ -2,6 +2,7 @@
 - [Ubuntu](notebooks/ubuntu.md)
 
 # Program
+- [Bash](notebooks/bash.md)
 - [Python](notebooks/python.md)
 - [Git](notebooks/git.md)
 
