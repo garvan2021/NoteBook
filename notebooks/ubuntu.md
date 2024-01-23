@@ -2,6 +2,11 @@
 
 ## Commands
 
+### find a file in path recursively
+```shell
+find [path] -name "*[filename]*"
+```
+
 ### look up running process
 
 - `top` (using `shift` + `v` to enable tree view)
