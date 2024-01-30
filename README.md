@@ -15,7 +15,7 @@
 - [GCC](notebooks/gcc.md)
 
 ## program language
-- [cpp](notebooks/cpp.md)
+- [CPP](notebooks/cpp.md)
 - [Python](notebooks/python.md)
 
 # Others
