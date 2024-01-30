@@ -1,15 +1,22 @@
+# abstract concept
+- [Web](notebooks/web.md)
+
 # OS
 - [Ubuntu](notebooks/ubuntu.md)
 
-# Program
-- [Bash](notebooks/bash.md)
-- [CMAKE](notebooks/cmake.md)
-- [Python](notebooks/python.md)
-- [GCC](notebooks/gcc.md)
+# Tools
 - [Git](notebooks/git.md)
+- [Bash](notebooks/bash.md)
 
-# Network
-- [Web](notebooks/web.md)
+# Program
+
+## compiler
+- [CMAKE](notebooks/cmake.md)
+- [GCC](notebooks/gcc.md)
+
+## program language
+- [cpp](notebooks/cpp.md)
+- [Python](notebooks/python.md)
 
 # Others
 - [Questions](others/question.md)
