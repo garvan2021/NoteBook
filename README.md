@@ -1,4 +1,4 @@
-# abstract concept
+# Abstract Concept
 - [Web](notebooks/web.md)
 
 # OS
