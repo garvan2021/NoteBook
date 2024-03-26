@@ -5,3 +5,9 @@
 ```shell
 git checkout <other-branch-name> -- path/to/your/folder
 ```
+
+### cancal previous commit
+
+```shell
+git reset HEAD~
+```
