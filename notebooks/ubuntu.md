@@ -2,6 +2,11 @@
 
 ## Commands
 
+### invoke moniter to listen device event
+```shell
+udevadm monitor
+```
+
 ### find a file in path recursively
 ```shell
 find [path] -name "*[filename]*"
