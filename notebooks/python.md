@@ -4,6 +4,14 @@
 
 ### Concurrent
 
+#### Bytes
+
+How to get the size of a byte
+```Python
+import struct
+size = struct.calcsize(b"test")
+```
+
 #### threading.Thread
 
 - When you want to use `Thread` class to do some thread-relating work, you can initialze `Thread` class by customize arguments and use `Thread.start()` to let the job start running, and make sure you should override `Thread.run()` instead of directly invoke
